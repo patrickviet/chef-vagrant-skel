@@ -4,8 +4,9 @@ chef-vagrant-skel
 How to run chef in Vagrant
 
 START
-- Install Vagrant 1.5 +
-- Download this
+- Install Virtualbox 5+
+- Install Vagrant 1.8+
+- Download this repo, go to the directory
 - Type ```vagrant up```
 
 CONTINUE
