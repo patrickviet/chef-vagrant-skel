@@ -6,6 +6,6 @@ cookbook_file '/tmp/bidon1' do
 end
 
 file '/tmp/bidon2' do
-  content node.bidon.camembert
+  content node['bidon']['camembert']
 end
 
