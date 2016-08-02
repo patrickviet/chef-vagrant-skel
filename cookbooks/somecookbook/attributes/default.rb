@@ -1,2 +1,2 @@
-default['somecookbook']['somevar'] = 22
+default['somecookbook']['somevar'] = "22"
 
